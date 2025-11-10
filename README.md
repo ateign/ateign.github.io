@@ -14,7 +14,7 @@ Aquí se publican enlaces a material de referencia para afiliados.
 
 ### ¿Cómo presentar denuncias?
 Deben presentarse en forma escrita e individual en sobre cerrado con la leyenda: **DOCUMENTACIÓN CONFIDENCIAL para la DELEGACIÓN CIOT - IGN** y depositado en los buzones ubicados en planta baja del edificio técnico y administrativo.
-
+- [¿Cómo presentar denuncias?](docs/ciot_denuncia.md)
 
 
 ## Comisión de Condiciones y Medio Ambiente de Trabajo - CyMAT

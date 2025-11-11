@@ -18,7 +18,7 @@ A partir de tal fecha todos pueden registrar un reclamo para que se les restituy
 ![up_reclamo](../images/up_reclamo.jpeg)
 
 Para realizar un reclamo individual:
-- **[Completar esta nota](<https://github.com/ateign/ateign.github.io/raw/refs/heads/main/docs/Reclamo%20individual%20copago%20UP.docx>)**
+- **[Completar e imprimir esta nota modelo](<https://github.com/ateign/ateign.github.io/raw/refs/heads/main/docs/Reclamo%20individual%20copago%20UP.docx>)**
 - Adjuntar copia de la siguiente documentación:
   - DNI del afiliado (ambos lados)
   - Credencial de UP (captura de pantalla)

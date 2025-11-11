@@ -28,4 +28,4 @@ En IGN deben operar delegaciones de estas comisiones centrales para atender esta
 
 
 # Reclamos
-- [¿Cómo reclamar por copagos a la obra social Unión Personal?](pages/up_reclamo.md)
+- [¿Cómo reclamar por coseguros a la obra social Unión Personal?](pages/up_reclamo.md)

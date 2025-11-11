@@ -1,9 +1,11 @@
 ![Logo ATE-IGN](images/logo_ate_ign.png)
 
 # CIOT | CyMAT
-El [Convenio Colectivo de Trabajo General para la Administración Pública Nacional](https://www.argentina.gob.ar/normativa/nacional/114315/actualizacion) estableció dos comisiones con representantes del estado empleador y sindicatos para velar por la equidad y no discriminación, así como la seguridad e higiene laboral.
+Para velar por la equidad y no discriminación, así como la seguridad e higiene laboral, el [Convenio Colectivo de Trabajo General para la Administración Pública Nacional](https://www.argentina.gob.ar/normativa/nacional/114315/actualizacion) establece 
+reuniones entre representantes del estado empleador y sindicatos en dos comisiones.
 
-En IGN deben operar delegaciones de estas comisiones centrales para atender las problemáticas específicas del organismo.
+En IGN deben operar delegaciones de estas comisiones centrales para atender estas problemáticas en el Instituto.
+
 
 ## Comisión de Igualdad de Oportunidades y Trato
 - [¿Qué es la CIOT?](https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/ciot/institucional 
@@ -26,4 +28,4 @@ En IGN deben operar delegaciones de estas comisiones centrales para atender las 
 
 
 # Reclamos
-- [Copagos obra social Unión Personal](pages/up_reclamo.md)
+- [¿Cómo reclamar por copagos a la obra social Unión Personal?](pages/up_reclamo.md)

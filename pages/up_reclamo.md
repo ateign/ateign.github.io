@@ -1,7 +1,7 @@
 # Copagos obra social Unión Personal
 
 ## Normativa sobre copagos
-En junio de 2024 la Superintendencia de Servicios de Salud del Ministerio de Salud de la Nación [habilitó a prestadores de salud a establecer el monto de sus copagos](https://www.argentina.gob.ar/noticias/coseguros-una-modificacion-para-impulsar-la-competencia).
+En junio de 2024 la Superintendencia de Servicios de Salud del Ministerio de Salud de la Nación [quitó cualquier regulación sobre el monto de copagos que quieran establecer los prestadores de salud](https://www.argentina.gob.ar/noticias/coseguros-una-modificacion-para-impulsar-la-competencia).
 Permanecen exentos los siguientes estudios y prácticas preventivas que se detallan en el Anexo I de la [Resolución 1926/2024](https://www.boletinoficial.gob.ar/detalleAviso/primera/309532/20240624).
 
 

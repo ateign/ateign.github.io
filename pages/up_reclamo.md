@@ -20,8 +20,8 @@ A partir de tal fecha todos pueden registrar un reclamo para que se les restituy
 Para realizar un reclamo individual:
 - **[Completar esta nota](<https://github.com/ateign/ateign.github.io/raw/refs/heads/main/docs/Reclamo%20individual%20copago%20UP.docx>)**
 - Adjuntar copia de la siguiente documentación:
-  - DNI (ambos lados)
-  - Carnet de afiliación
+  - DNI del afiliado (ambos lados)
+  - Credencial de UP (captura de pantalla)
   - Factura, ticket o comprobante del coseguro
   - Último recibo de haberes 
 - Presentar en la mesa de entradas de Unión Personal en Tucumán 949, CABA.

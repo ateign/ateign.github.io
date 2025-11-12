@@ -9,20 +9,21 @@ Permanecen exentos los siguientes estudios y prácticas preventivas que se detal
 -->
 En julio de 2025 la obra social Unión Personal (UP) decidió bonificar cobros de coseguros según afiliación sindical, lo cual constituye una práctica discriminatoria y contraria a la normativa vigente.
 
-Desde el 13 de octubre de 2025, UP debiera abstenerse de esta práctica discriminatoria mientras se resuelve el fondo del asunto en la justicia según la [acción de amparo que fue favorable al reclamo de ATE](<https://github.com/ateign/ateign.github.io/raw/refs/heads/main/docs/Despacho%20CNT%2040843_2025%20-%20SENTENCIA%20INTERLOCUTORIA%20RESUEVE%20MEDIDA%20CAUTELAR%20-%20doc1654817163.pdf>)
+Desde el 13 de octubre de 2025, UP debiera abstenerse de esta práctica discriminatoria mientras se resuelve el fondo del asunto en la justicia según la acción de amparo que fue favorable al reclamo de ATE emitiéndose a tal efecto [una medida cautelar](<https://github.com/ateign/ateign.github.io/raw/refs/heads/main/docs/Despacho%20CNT%2040843_2025%20-%20SENTENCIA%20INTERLOCUTORIA%20RESUEVE%20MEDIDA%20CAUTELAR%20-%20doc1654817163.pdf>)
 ![pdf](https://img.shields.io/badge/-PDF-red?logo=adobeacrobatreader&logoColor=white).
 
 A partir de tal fecha todos pueden registrar un reclamo para que se les restituya cualquier coseguro que sea bonificado a otra persona por su afiliación sindical.
 
 
-### ¿Cómo reclamar por estos coseguros?
-Para realizar el reclamo en forma individual:
-- **[Completar e imprimir esta nota modelo](<https://github.com/ateign/ateign.github.io/raw/refs/heads/main/docs/Reclamo%20individual%20copago%20UP.docx>)**
+### ¿Cómo reclamar el reintegro de coseguros?
+Para realizar el reclamo en forma individual y personal:
+- **[Completar e imprimir dos copias de esta nota modelo](<https://github.com/ateign/ateign.github.io/raw/refs/heads/main/docs/Reclamo%20individual%20copago%20UP.docx>)**
 - Adjuntar copia de la siguiente documentación:
   - DNI del afiliado (ambos lados)
   - Credencial de UP (captura de pantalla)
   - Factura, ticket o comprobante del coseguro
   - Último recibo de haberes 
-- Presentar en la mesa de entradas de Unión Personal en Tucumán 949, CABA.
+- Presentar en la mesa de entradas de Unión Personal en Tucumán 949, CABA. Solicitar que sellen ambas copias de la nota modelo, constando fecha de recepción. Quedarse con una copia sellada como comprobante.
+- Enviar a [ate.ign.ar@gmail.com](mailto:ate.ign.ar@gmail.com) foto o escaneo de la copia sellada y la documentación adjunta. Se agregará al reclamo que el equipo jurídico de ATE está realizando por incumplimiento de la medida cautelar. 
 
 ![up_reclamo](../images/up_reclamo.jpeg)

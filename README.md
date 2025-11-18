@@ -2,9 +2,9 @@
 <!--
 ![Logo ATE-IGN](images/logo_ate_ign.png)
 -->
-# Reclamos
+# Instructivos
 - [Reintegro coseguros Unión Personal](pages/up_reclamo.md)
-
+- [ART: Accidentes y enfermedades laborales](pages/accidentes_trabajo.md)
 
 # CIOT | CyMAT
 Para velar por la equidad y no discriminación, así como la seguridad e higiene laboral, el [Convenio Colectivo de Trabajo General para la Administración Pública Nacional](https://www.argentina.gob.ar/normativa/nacional/114315/actualizacion) establece reuniones entre representantes del estado empleador y sindicatos en dos comisiones.

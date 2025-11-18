@@ -16,19 +16,22 @@ En IGN deben operar delegaciones de estas comisiones centrales para atender esta
 - [CIOT Central](https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/ciot)
   - [¿Qué es la CIOT?](https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/ciot/institucional) 
   - [Presentación ATE reunión delegados CIOT 04-11-25](<https://github.com/ateign/ateign.github.io/raw/refs/heads/main/docs/Presentación reunión CIOT 4-11-25.pdf>)
-![pdf](https://img.shields.io/badge/-PDF-red?logo=adobeacrobatreader&logoColor=white)
+  ![pdf](./images/PDF.svg)
+  <!---
+  ![pdf](https://img.shields.io/badge/-PDF-red?logo=adobeacrobatreader&logoColor=white)
+  -->
 - [¿Cómo presentar denuncias?](pages/ciot_denuncia.md)
-- [Manual delegaciones CIOT](https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/ciot/manual)
+- [Manual delegaciones CIOT](https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/ciot/manual) 
 
 
 ## Comisión de Condiciones y Medio Ambiente de Trabajo
 - [¿Qué es la CyMAT?](https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/empleo-publico/cymat)
   - [Preguntas frecuentes CyMAT](https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/cymat/preguntas)
   - [Presentación ATE reunión delegados CyMAT 03-06-25](<https://github.com/ateign/ateign.github.io/raw/refs/heads/main/docs/CyMAT PDF.pdf>)
-  ![pdf](https://img.shields.io/badge/-PDF-red?logo=adobeacrobatreader&logoColor=white)
+  ![pdf](./images/PDF.svg)
 - [Reglamento delegación CyMAT IGN](https://www.ign.gob.ar/AreaInstitucional/RecursosHumanos/CyMAT)
 - [Manual delegaciones CyMAT](https://www.argentina.gob.ar/sites/default/files/manual_delegaciones_cymat.pdf)
-![pdf](https://img.shields.io/badge/-PDF-red?logo=adobeacrobatreader&logoColor=white)
+  ![pdf](https://img.shields.io/badge/-PDF-red?logo=adobeacrobatreader&logoColor=white)
 
 
 # ATE Capital

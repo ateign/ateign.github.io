@@ -10,7 +10,9 @@ Mejorar la situación laboral en el Instituto es nuestro objetivo.
 # ¿Tenés un problema? 
 
 ## ¡Hacete escuchar!
+<!--
 - [Pedí tu reintegro de coseguros Unión Personal](pages/up_reclamo.md)
+-->
 - [ART: ¿Qué hacer ante un accidente o enfermedad laboral?](pages/accidentes_trabajo.md)
 - [Canal de comunicación anónima con la Junta Interna de ATE-IGN](https://framaforms.org/ate-ign-1763645579)
 
@@ -30,6 +32,7 @@ Delegaciones de estas comisiones centrales están para atender estas problemáti
 - [¿Cómo presentar denuncias?](pages/ciot_denuncia.md)
 - [Manual delegaciones CIOT](https://www.argentina.gob.ar/jefatura/gestion-y-empleo-publico/ciot/manual) 
   - [Presentación ATE para delegados CIOT 04-11-2025](<https://github.com/ateign/ateign.github.io/raw/refs/heads/main/docs/Presentación reunión CIOT 4-11-25.pdf>)
+  - [Delegación CIOT del IGN](https://www.ign.gob.ar/content/CIOT)
 
 
 ### Comisión de Condiciones y Medio Ambiente de Trabajo
